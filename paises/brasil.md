@@ -18,6 +18,7 @@
 * [PHP Jobs](https://github.com/phpdevbr/vagas/issues)
 * [Programa Thor](http://www.programathor.com.br)
 * [Python jobs](http://pyjobs.com.br/jobs/)
+* [Quero Workar](http://queroworkar.com.br)
 * [Reachr](http://www.reachr.com.br)
 * [Recruta Simples](https://www.recrutasimples.com.br)
 * [Riovagas](http://www.riovagas.com.br)
